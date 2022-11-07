@@ -14,8 +14,8 @@ Astar está visando se tornar uma DAO em alguns anos. Enquanto avançamos para n
 
 ## Astar Network
 
-- Seu dApp está **lançado e operando na rede Astar**
-- O seu projeto contribui para o TVL da Astar, certifique-se de que você está listado no [DefilLama](../../integrations/dapp-listing/defillama).
+- Seu dApp lançado e operando em Astar Network
+- Seu projeto contribuir para o TVL de Astar, certifique-se de que você esteja listado no [DefilLama](../../integrations/dapp-listing/defillama).
 - Liste seu projeto no [DappRadar](../../integrations/dapp-listing/dappradar).
 
 ### E os parceiros de infraestrutura?
@@ -23,20 +23,20 @@ Astar está visando se tornar uma DAO em alguns anos. Enquanto avançamos para n
 Você não tem nenhum Dapp mas está fornecendo serviços de infraestrutura ao ecossistema Astar. No caso, seu dapp também pode ser adicionado ao dApp staking. Como ingressar:
 
 - Já tendo uma parceria de longo prazo com a Astar e uma relação próxima com alguns projetos.
-- Possuindo um histórico comprovado no nosso ecossistema.
+- Possuir um histórico comprovado no nosso ecossistema.
 - Você tem documentos sobre como usar suas ferramentas na nossa documentação e na sua. Você pode adicionar instruções para a nossa documentação criando um PR no nosso GitHub.
 
 ### E quanto aos projetos que não podem atender aos requisitos acima?
 
-Você não pode adicionar o seu projeto ao DefilLama porque ele não está gerando nenhuma TVL, também o DappRadar não é uma opção porque não há uso de contratos inteligentes? Estes são passos a seguir:
+Você não pode adicionar o seu projeto ao DefilLama porque ele não está gerando nenhum TVL, também o DappRadar não é uma opção porque não há uso de contratos inteligentes? Estes são passos a seguir:
 
 - O Embaixador com KYC, é feito um vídeo de AMA com o embaixador junto.
 - Crie uma proposta no nosso fórum e vote no Conselho.
-- Ativo no Discord, poste atualizações em nossos canais de anúncios.
+- Seja ativo no Discord, poste atualizações em nossos canais de anúncios.
 - Use as ferramentas que fornecemos para acompanhar métricas mais tarde no seu desenvolvimento.
 
 ## Shiden Network
 
-- Seu dApp está **lançado e operando na rede Astar**.
-- O seu projeto contribui para o crescimento da Shiden, seria ótimo listar o seu projeto no DappRadar ou no DefilLama. Isso não é uma exigência, mas ajudaria a aumentar a confiança no seu projeto com a nossa comunidade.
+- Seu dApp **lançado e operando na rede Astar**.
+- Se seu projeto contribui para o crescimento da Shiden, seria ótimo listar o seu projeto no DappRadar ou no DefilLama. Isso não é uma exigência, mas ajudaria a aumentar a confiança no seu projeto com a nossa comunidade.
 - Parceiros de infraestrutura que estão contribuindo para o nosso ecossistema e precisam cobrir seus custos, podem aplicar ao nosso mecanismo de dapp staking na Shiden.
